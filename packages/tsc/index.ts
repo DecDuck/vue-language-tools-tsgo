@@ -3,7 +3,7 @@ import * as vue from '@vue/language-core';
 
 const windowsPathReg = /\\/g;
 
-export function run(tscPath = require.resolve('typescript/lib/tsc')) {
+export function run(tscPath = require.resolve('@typescript/native-preview/bin/tsgo')) {
 	let runExtensions = ['.vue'];
 	let extensionsChangedException: Error | undefined;
 

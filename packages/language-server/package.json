@@ -28,5 +28,6 @@
 	"devDependencies": {
 		"@typescript/server-harness": "latest",
 		"@volar/test-utils": "2.4.22"
-	}
+	},
+	"gitHead": "f1936cb98bceeb8d74fa63b17fc39ea177bbb027"
 }

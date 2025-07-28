@@ -39,5 +39,6 @@
 		"@vue/compiler-dom": "^3.5.0",
 		"@vue/typescript-plugin": "4.0.1",
 		"vscode-css-languageservice": "^6.3.1"
-	}
+	},
+	"gitHead": "f1936cb98bceeb8d74fa63b17fc39ea177bbb027"
 }

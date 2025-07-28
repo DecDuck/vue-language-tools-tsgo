@@ -20,5 +20,6 @@
 		"@types/node": "^22.10.4",
 		"@vue/compiler-dom": "^3.5.0",
 		"@vue/language-core": "4.0.1"
-	}
+	},
+	"gitHead": "f1936cb98bceeb8d74fa63b17fc39ea177bbb027"
 }
